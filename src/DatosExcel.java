@@ -64,4 +64,10 @@ public class DatosExcel {
 	public String GetDato(Integer i, Integer j){
 		return datos.get(i).get(j);
 	}
+	public ArrayList<ArrayList<String>> GetDatos(){
+		return datos;
+	}
+	public ArrayList<String> GetDiputado(Integer i){
+		return datos.get(i);
+	}
 }
