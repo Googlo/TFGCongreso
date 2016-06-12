@@ -13,5 +13,8 @@
 	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/jdom-2.0.6/jdom-2.0.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/jdom-2.0.6/jdom-2.0.6-junit.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/jdom-2.0.6/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nico/Desktop/TFG/snowball-20051019.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/weka-stable-3.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nico/Downloads/snowball-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
