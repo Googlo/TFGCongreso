@@ -1,0 +1,7 @@
+
+
+public class Indice {
+	
+	private String politico;
+	
+}
